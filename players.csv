@@ -1,0 +1,573 @@
+"id","name","team_id","birthday","nationality","position","minutes_played","goal_scored","assists"
+5,"David de Gea",210,"1990-11-07","Spain","Goalkeeper",3420,0,0
+6,"Matteo Darmian",210,"1989-12-02","Italy","Defender",443,0,0
+7,"Victor Nilsson Lindelöf",210,"1994-07-17","Sweden","Defender",2602,1,1
+8,"Luke Shaw",210,"1995-07-12","England","Defender",2592,1,4
+9,"Eric Bertrand Bailly",210,"1994-04-12","Côte d'Ivoire","Defender",637,0,0
+10,"Juan Mata",210,"1988-04-28","Spain","Midfielder",1294,3,2
+11,"Paul Pogba",210,"1993-03-15","France","Midfielder",3011,13,9
+12,"Frederico Rodrigues Santos",210,"1993-03-05","Brazil","Midfielder",1045,1,1
+13,"Andreas Pereira",210,"1996-01-01","Brazil","Midfielder",595,1,1
+14,"Alexis Sanchez",210,"1988-12-19","Chile","Forward",877,1,3
+15,"Marcus Rashford",210,"1997-10-31","England","Forward",2362,10,6
+16,"Romelu Lukaku",210,"1993-05-13","Belgium","Forward",2130,12,0
+17,"Scott McTominay",210,"1996-12-08","England","Midfielder",861,2,0
+18,"Marouane Fellaini",210,"1987-11-22","Belgium","Midfielder",744,0,1
+19,"Anthony Martial",210,"1995-12-05","France","Forward",1623,10,2
+20,"Chris Smalling",210,"1989-11-22","England","Defender",2128,1,0
+21,"Lee Grant",210,"1983-01-27","England","Goalkeeper",0,0,0
+22,"Ashley Young",210,"1985-07-09","England","Midfielder",2568,2,2
+23,"Kasper Schmeichel",204,"1986-11-05","Denmark","Goalkeeper",3420,0,0
+24,"Wes Morgan",204,"1984-01-21","Jamaica","Defender",1926,3,0
+25,"Harry Maguire",204,"1993-03-05","England","Defender",2599,3,0
+26,"Ricardo Domingos Barbosa Pereira",204,"1993-10-06","Portugal","Defender",3125,2,6
+27,"Ben Chilwell",204,"1996-12-21","England","Defender",3240,0,4
+28,"Adrien Sebastian Perruchet Silva",204,"1989-03-15","Portugal","Midfielder",88,0,0
+29,"Daniel Amartey",204,"1994-12-21","Ghana","Midfielder",640,0,0
+30,"Onyinye Wilfred Ndidi",204,"1996-12-16","Nigeria","Midfielder",3299,2,0
+31,"Demarai Gray",204,"1996-06-28","England","Midfielder",1992,4,1
+32,"James Maddison",204,"1996-11-23","England","Midfielder",2850,7,7
+33,"Kelechi Iheanacho",204,"1996-10-03","Nigeria","Forward",926,1,3
+34,"Jamie Vardy",204,"1987-01-11","England","Forward",2735,18,4
+35,"Rachid Ghezzal",204,"1992-05-09","Algeria","Forward",738,1,0
+36,"Vicente Iborra De La Fuente",204,"1988-01-16","Spain","Midfielder",226,0,0
+37,"Jonny Evans",204,"1988-01-03","Northern Ireland","Defender",1995,1,0
+38,"Marc Albrighton",204,"1989-11-18","England","Midfielder",1626,2,2
+39,"Danny Ward",204,"1993-06-22","Wales","Goalkeeper",0,0,0
+40,"Christian Fuchs",204,"1986-04-07","Austria","Defender",206,0,0
+41,"Martin Dúbravka",215,"1989-01-15","Slovakia","Goalkeeper",3420,0,0
+42,"Ciaran Clark",215,"1989-09-26","Republic of Ireland","Defender",857,3,0
+43,"Jamal Lascelles",215,"1993-11-11","England","Defender",2748,0,1
+44,"Paul Dummett",215,"1991-09-26","Wales","Defender",1986,0,0
+45,"DeAndre Yedlin",215,"1993-07-09","USA","Defender",2475,1,2
+46,"Jonjo Shelvey",215,"1992-02-27","England","Midfielder",944,1,1
+47,"Mohamed Diamé",215,"1987-06-14","Senegal","Midfielder",2165,0,0
+48,"Matt Ritchie",215,"1989-09-10","Scotland","Midfielder",2940,2,8
+49,"Robert Kenedy Nunes do Nascimento",215,"1996-02-08","Brazil","Midfielder",1344,1,1
+50,"José Luis Sanmartín Mato",215,"1990-03-27","Spain","Forward",586,2,0
+51,"Ayoze Perez",215,"1993-07-29","Spain","Forward",2929,12,2
+52,"Rondon",215,"1989-09-16","Venezuela","Forward",2609,11,7
+53,"Christian Atsu Twasam",215,"1992-01-10","Ghana","Midfielder",1487,1,0
+54,"Yoshinori Muto",215,"1992-07-15","Japan","Forward",516,1,0
+55,"Sung-Yeung Ki",215,"1989-01-24","South Korea","Midfielder",1302,0,1
+56,"Fabian Schär",215,"1991-12-20","Switzerland","Defender",2002,4,1
+57,"Javier Manquillo Gaitán",215,"1994-05-05","Spain","Defender",1097,0,3
+58,"Karl Darlow",215,"1990-10-08","England","Goalkeeper",0,0,0
+59,"Hugo Lloris",202,"1986-12-26","France","Goalkeeper",2970,0,0
+60,"Jan Vertonghen",202,"1987-04-24","Belgium","Defender",1915,1,0
+61,"Serge Aurier",202,"1992-12-24","Côte d'Ivoire","Defender",564,0,2
+62,"Ben Davies",202,"1993-04-24","Wales","Defender",1839,0,0
+63,"Davinson Sánchez Mina",202,"1996-06-12","Colombia","Defender",1943,1,1
+64,"Moussa Sissoko",202,"1989-08-16","France","Midfielder",2336,0,3
+65,"Christian Eriksen",202,"1992-02-14","Denmark","Midfielder",2772,8,12
+66,"Lucas Rodrigues Moura da Silva",202,"1992-08-13","Brazil","Midfielder",2127,10,0
+67,"Dele Alli",202,"1996-04-11","England","Midfielder",1827,5,3
+68,"Eric Dier",202,"1994-01-15","England","Midfielder",1510,3,0
+69,"Harry Kane",202,"1993-07-28","England","Forward",2427,17,4
+70,"Moussa Dembele",202,"1987-07-16","Belgium","Midfielder",516,0,0
+71,"Heung-Min Son",202,"1992-07-08","South Korea","Forward",2048,12,6
+72,"Luke Amos",202,"1997-02-23","England","Midfielder",2,0,0
+73,"Toby Alderweireld",202,"1989-03-02","Belgium","Defender",2924,0,0
+74,"Michel Vorm",202,"1983-10-20","Netherlands","Goalkeeper",180,0,0
+75,"Kyle Walker-Peters",202,"1997-04-13","England","Defender",374,0,3
+76,"Fernando Llorente Torres",202,"1985-02-26","Spain","Forward",683,1,4
+77,"Asmir Begović",209,"1987-06-20","Bosnia and Herzegovina","Goalkeeper",2160,0,0
+78,"Charlie Daniels",209,"1986-09-07","England","Defender",1583,1,0
+79,"Adam Smith",209,"1991-04-29","England","Defender",2073,1,1
+80,"Steve Cook",209,"1991-04-19","England","Defender",2787,1,1
+81,"Nathan Aké",209,"1995-02-18","Netherlands","Defender",3412,4,0
+82,"Andrew Surman",209,"1986-08-20","England","Midfielder",1438,0,0
+83,"Dan Gosling",209,"1990-02-01","England","Midfielder",1737,2,1
+84,"Ryan Fraser",209,"1994-02-24","Scotland","Midfielder",3173,7,13
+85,"David Brooks",209,"1997-07-08","England","Forward",2278,7,5
+86,"Callum Wilson",209,"1992-02-27","England","Forward",2535,14,9
+87,"Joshua King",209,"1992-01-15","Norway","Forward",2974,12,3
+88,"Simon Francis",209,"1985-02-16","England","Defender",1226,0,2
+89,"Lys Mousset",209,"1996-02-08","France","Forward",345,1,0
+90,"Jermain Defoe",209,"1982-10-07","England","Forward",21,0,0
+91,"Artur Boruc",209,"1980-02-20","Poland","Goalkeeper",1080,0,0
+92,"Jordon Ibe",209,"1995-12-08","England","Midfielder",795,1,1
+93,"Lewis Cook",209,"1997-02-03","England","Midfielder",721,0,0
+94,"Tyrone Mings",209,"1993-03-13","England","Defender",141,0,0
+95,"Neil Leonard Dula Etheridge",216,"1990-02-07","Philippines","Goalkeeper",3420,0,0
+96,"Lee Peltier",216,"1986-12-11","England","Defender",1542,0,0
+97,"Bruno Écuélé Manga",216,"1988-07-16","Gabon","Defender",3375,0,1
+98,"Souleymane Bamba",216,"1985-01-13","Côte d'Ivoire","Defender",2475,4,1
+99,"Sean Morrison",216,"1991-01-08","England","Defender",3040,1,3
+100,"Joe Bennett",216,"1990-03-28","England","Defender",2641,0,1
+101,"Callum Paterson",216,"1994-10-13","Scotland","Defender",1996,4,1
+102,"Bobby Reid",216,"1993-02-02","England","Midfielder",1422,5,2
+103,"Joe Ralls",216,"1993-10-13","England","Midfielder",1959,0,0
+104,"David Junior Hoilett",216,"1990-06-05","Canada","Forward",2142,3,1
+105,"Nathaniel Mendez-Laing",216,"1992-04-15","England","Midfielder",984,4,1
+106,"Danny Ward",216,"1990-12-09","England","Forward",440,1,0
+107,"Josh Murphy",216,"1995-02-24","England","Forward",1825,3,2
+108,"Gary Madine",216,"1990-08-24","England","Forward",32,0,0
+109,"Alex Smithies",216,"1990-03-05","England","Goalkeeper",0,0,0
+110,"Víctor Camarasa",216,"1994-05-28","Spain","Midfielder",2579,5,4
+111,"Greg Cunningham",216,"1991-01-31","Republic of Ireland","Defender",630,0,0
+112,"Jazz Richards",216,"1991-04-12","Wales","Defender",128,0,0
+113,"Fabricio Martín Agosto Ramírez",217,"1987-12-31","Spain","Goalkeeper",180,0,0
+114,"Maxime Le Marchand",217,"1989-10-11","France","Defender",2251,0,1
+115,"Cyrus Christie",217,"1992-09-30","Republic of Ireland","Defender",1943,0,1
+116,"Joe Bryan",217,"1993-09-17","England","Defender",2350,0,1
+117,"Calum Chambers",217,"1995-01-20","England","Defender",2587,2,0
+118,"Kevin McDonald",217,"1988-11-04","Scotland","Midfielder",842,0,0
+119,"André Schürrle",217,"1990-11-06","Germany","Midfielder",1650,6,0
+120,"Tom Cairney",217,"1991-01-20","Scotland","Midfielder",2198,1,1
+121,"Jean Michaël Seri",217,"1991-07-19","Côte d'Ivoire","Midfielder",2252,1,2
+122,"Ryan Sessegnon",217,"2000-05-18","England","Defender",2298,2,6
+123,"Aleksandar Mitrović",217,"1994-09-16","Serbia","Forward",3282,11,3
+124,"Aboubakar Kamara",217,"1995-03-07","France","Forward",687,3,0
+125,"Luciano Vietto",217,"1993-12-05","Argentina","Forward",983,1,4
+126,"Stefan Marius Johansen",217,"1991-01-08","Norway","Midfielder",412,0,0
+127,"Neeskens Kebano",217,"1992-03-10","Congo DR","Midfielder",103,0,0
+128,"Timothy Fosu-Mensah",217,"1998-01-02","Netherlands","Defender",795,0,0
+129,"Sergio Rico",217,"1993-09-01","Spain","Goalkeeper",2610,0,0
+130,"Ibrahima Cissé",217,"1994-02-28","Belgium","Midfielder",87,0,0
+131,"Wayne Hennessey",205,"1987-01-24","Wales","Goalkeeper",1575,0,0
+132,"Mamadou Sakho",205,"1990-02-13","France","Defender",2417,0,0
+133,"James Tomkins",205,"1989-03-29","England","Defender",2563,1,1
+134,"Patrick van Aanholt",205,"1990-08-29","Netherlands","Defender",3198,3,2
+135,"Jeffrey Schlupp",205,"1992-12-23","Ghana","Defender",1665,4,1
+136,"Aaron Wan-Bissaka",205,"1997-11-26","England","Midfielder",3135,0,3
+137,"James McArthur",205,"1987-10-07","Scotland","Midfielder",3071,3,6
+138,"Andros Townsend",205,"1991-07-16","England","Midfielder",3018,6,4
+139,"Luka Milivojević",205,"1991-04-07","Serbia","Midfielder",3420,12,2
+140,"Christian Benteke",205,"1990-12-03","Belgium","Forward",813,1,1
+141,"Wilfried Zaha",205,"1992-11-10","Côte d'Ivoire","Midfielder",3041,10,5
+142,"Alexander Sørloth",205,"1995-12-05","Norway","Forward",173,0,0
+143,"Cheikhou Kouyaté",205,"1989-12-21","Senegal","Midfielder",1897,0,2
+144,"Pape N'Diaye Souaré",205,"1990-06-06","Senegal","Defender",0,0,0
+145,"Joel Ward",205,"1989-10-29","England","Defender",551,1,0
+146,"Vicente Guaita",205,"1987-01-10","Spain","Goalkeeper",1755,0,0
+147,"Martin Kelly",205,"1990-04-27","England","Defender",1110,0,0
+148,"Jaïro Riedewald",205,"1996-09-09","Netherlands","Defender",0,0,0
+149,"Ben Hamer",219,"1987-11-20","England","Goalkeeper",553,0,0
+150,"Mathias Jattah-Njie Jørgensen",219,"1990-04-23","Denmark","Defender",2148,3,1
+151,"Chris Löwe",219,"1989-04-16","Germany","Defender",2057,0,2
+152,"Christopher Schindler",219,"1990-04-29","Germany","Defender",3262,1,0
+153,"Terence Kongolo",219,"1994-02-14","Netherlands","Defender",2722,1,1
+154,"Florent Hadergjonaj",219,"1994-07-31","Switzerland","Defender",1840,0,0
+155,"Jonathan Hogg",219,"1988-12-06","England","Midfielder",2377,0,1
+156,"Aaron Mooy",219,"1990-09-15","Australia","Midfielder",2327,3,1
+157,"Alex Pritchard",219,"1993-05-03","England","Midfielder",2092,2,0
+158,"Philip Billing",219,"1996-06-11","Denmark","Midfielder",2192,2,0
+159,"Steve Mounié",219,"1994-09-29","Benin","Forward",1777,2,3
+160,"Laurent Depoitre",219,"1988-12-07","Belgium","Forward",1059,0,1
+161,"Adama Diakhaby",219,"1996-07-05","France","Forward",551,0,0
+162,"Jonas Lössl",219,"1989-02-01","Denmark","Goalkeeper",2777,0,1
+163,"Tom Smith",219,"1992-04-14","England","Defender",1141,0,0
+164,"Ramadan Sobhi",219,"1997-01-23","Egypt","Forward",75,0,0
+165,"Rajiv van La Parra",219,"1991-06-04","Netherlands","Midfielder",407,0,0
+166,"Jon Gorenc Stankovič",219,"1996-01-14","Slovenia","Defender",718,1,0
+167,"Kepa Arrizabalaga",212,"1994-10-03","Spain","Goalkeeper",3240,0,0
+168,"David Luiz",212,"1987-04-22","Brazil","Defender",3239,3,2
+169,"Cesar Azpilicueta",212,"1989-08-28","Spain","Defender",3403,1,5
+170,"Marcos Alonso",212,"1990-12-28","Spain","Defender",2761,2,4
+171,"Antonio Rüdiger",212,"1993-03-03","Germany","Defender",2874,1,0
+172,"Ross Barkley",212,"1993-12-05","England","Midfielder",1241,3,5
+173,"Jorginho",212,"1991-12-20","Italy","Midfielder",3165,2,0
+174,"N'Golo Kanté",212,"1991-03-29","France","Midfielder",3096,4,4
+175,"Willian",212,"1988-08-09","Brazil","Forward",2108,3,6
+176,"Pedro Rodriguez",212,"1987-07-28","Spain","Midfielder",1780,8,2
+177,"Alvaro Morata",212,"1992-10-23","Spain","Forward",943,5,0
+178,"Ruben Loftus-Cheek",212,"1996-01-23","England","Midfielder",983,6,2
+179,"Eden Hazard",212,"1991-01-07","Belgium","Midfielder",2926,16,15
+180,"Victor Moses",212,"1990-12-12","Nigeria","Midfielder",26,0,0
+181,"Wilfredo Daniel Caballero",212,"1981-09-28","Argentina","Goalkeeper",180,0,0
+182,"Olivier Giroud",212,"1986-09-30","France","Forward",832,2,4
+183,"Davide Zappacosta",212,"1992-06-11","Italy","Defender",125,0,0
+184,"Andreas Christensen",212,"1996-04-10","Denmark","Defender",615,0,0
+185,"Ben Foster",214,"1983-04-03","England","Goalkeeper",3420,0,0
+186,"José Holebas",214,"1984-06-27","Greece","Defender",2394,3,6
+187,"Craig Cathcart",214,"1989-02-06","Northern Ireland","Defender",3099,3,0
+188,"Christian Kabasele",214,"1991-02-24","Belgium","Defender",1587,0,0
+189,"Daryl Janmaat",214,"1989-07-22","Netherlands","Defender",1521,0,2
+190,"Etienne Capoue",214,"1988-07-11","France","Midfielder",2947,1,3
+191,"Roberto Maximiliano Pereyra",214,"1991-01-07","Argentina","Forward",2825,6,1
+192,"Abdoulaye Doucouré",214,"1993-01-01","France","Midfielder",3062,5,6
+193,"Will Hughes",214,"1995-04-17","England","Midfielder",2436,2,4
+194,"Troy Deeney",214,"1988-06-29","England","Forward",2548,9,5
+195,"Andre Gray",214,"1991-06-26","England","Forward",1358,7,2
+196,"Isaac Ajayi Success",214,"1996-01-07","Nigeria","Forward",1037,1,1
+197,"Ken Sema",214,"1993-09-30","Sweden","Midfielder",755,1,2
+198,"Francisco Femenía Far",214,"1991-02-02","Spain","Midfielder",2045,1,1
+199,"Heurelho da Silva Gomes",214,"1981-02-15","Brazil","Goalkeeper",0,0,0
+200,"Sebastian Prödl",214,"1987-06-21","Austria","Defender",13,0,0
+201,"Adrian Mariappa",214,"1986-10-03","Jamaica","Defender",1921,0,0
+202,"Adam Masina",214,"1994-01-02","Italy","Defender",1003,0,1
+203,"Mathew Ryan",218,"1992-04-08","Australia","Goalkeeper",3060,0,0
+204,"Bruno Saltor Grau",218,"1980-10-01","Spain","Defender",1136,0,1
+205,"Shane Duffy",218,"1992-01-01","Republic of Ireland","Defender",3088,5,1
+206,"Lewis Dunk",218,"1991-11-21","England","Defender",3153,2,1
+207,"Bernardo",218,"1995-05-14","Brazil","Defender",1750,0,1
+208,"Dale Stephens",218,"1989-06-12","England","Midfielder",2487,1,1
+209,"Pascal Groß",218,"1991-06-15","Germany","Midfielder",1878,3,3
+210,"Davy Pröpper",218,"1991-09-02","Netherlands","Midfielder",2551,1,1
+211,"Anthony Knockaert",218,"1991-11-20","France","Midfielder",1832,2,6
+212,"Solomon March",218,"1994-07-20","England","Midfielder",2473,1,5
+213,"Glenn Murray",218,"1983-09-25","England","Forward",2514,13,1
+214,"Gaëtan Bong Songo",218,"1988-04-25","Cameroon","Defender",1805,0,0
+215,"Yves Bissouma",218,"1996-08-30","Mali","Midfielder",1769,0,0
+216,"Alireza Jahanbakhsh",218,"1993-08-11","Iran","Forward",1022,0,0
+217,"Beram Kayal",218,"1988-05-02","Israel","Midfielder",933,1,1
+218,"Jürgen Locadia",218,"1993-11-07","Netherlands","Forward",1227,2,0
+219,"Leon Balogun",218,"1988-06-28","Nigeria","Defender",591,1,0
+220,"David Button",218,"1989-02-27","England","Goalkeeper",360,0,0
+221,"Rui Pedro dos Santos Patrício",220,"1988-02-15","Portugal","Goalkeeper",3330,0,0
+222,"Ryan Bennett",220,"1990-03-06","England","Defender",3060,1,0
+223,"Willy Boly",220,"1991-02-03","France","Defender",3169,4,0
+224,"Matt Doherty",220,"1992-01-16","Republic of Ireland","Defender",3147,4,5
+225,"Conor Coady",220,"1993-02-25","England","Midfielder",3420,0,0
+226,"Jonny",220,"1994-03-03","Spain","Defender",2780,1,1
+227,"João Moutinho",220,"1986-09-08","Portugal","Midfielder",3040,1,8
+228,"Rúben Diogo Da Silva Neves",220,"1997-03-13","Portugal","Midfielder",3009,4,3
+229,"Diogo José Teixeira da Silva",220,"1996-12-04","Portugal","Midfielder",2371,9,5
+230,"Hélder Wander Sousa Azevedo Costa",220,"1994-01-12","Portugal","Midfielder",1345,1,2
+231,"Raúl Alonso Jiménez Rodríguez",220,"1991-05-05","Mexico","Forward",3125,13,7
+232,"Leonardo Bonatini Lohner Maia",220,"1994-03-28","Brazil","Forward",128,0,1
+233,"Rúben Gonçalo Silva Nascimento Vinagre",220,"1999-04-09","Portugal","Defender",703,0,0
+234,"Morgan Gibbs-White",220,"2000-01-27","England","Midfielder",647,0,1
+235,"Bright Enobakhare",220,"1998-02-08","England","Forward",0,0,0
+236,"John Ruddy",220,"1986-10-24","England","Goalkeeper",90,0,0
+237,"Romain Saïss",220,"1990-03-26","Morocco","Midfielder",1144,2,0
+238,"Kortney Hause",220,"1995-07-16","England","Defender",0,0,0
+239,"Jordan Pickford",206,"1994-03-07","England","Goalkeeper",3420,0,0
+240,"Phil Jagielka",206,"1982-08-17","England","Defender",329,1,0
+241,"Leighton Baines",206,"1984-12-11","England","Defender",376,0,0
+242,"Séamus Coleman",206,"1988-10-11","Republic of Ireland","Defender",2560,2,2
+243,"Michael Keane",206,"1993-01-11","England","Defender",2970,1,2
+244,"Morgan Schneiderlin",206,"1989-11-08","France","Midfielder",833,0,1
+245,"Gylfi Sigurdsson",206,"1989-09-08","Iceland","Midfielder",3134,13,6
+246,"Idrissa Gana Gueye",206,"1989-09-26","Senegal","Midfielder",2825,0,2
+247,"Theo Walcott",206,"1989-03-16","England","Forward",2122,5,2
+248,"Cenk Tosun",206,"1991-06-07","Turkey","Forward",1050,3,3
+249,"Richarlison de Andrade",206,"1997-05-10","Brazil","Forward",2679,13,1
+250,"Mason Holgate",206,"1996-10-22","England","Defender",407,0,0
+251,"Oumar Niasse",216,"1990-04-18","Senegal","Forward",998,0,0
+252,"Lucas Digne",206,"1993-07-20","France","Defender",2990,4,4
+253,"Sandro Ramirez",206,"1995-07-09","Spain","Forward",0,0,0
+254,"Maarten Stekelenburg",206,"1982-09-22","Netherlands","Goalkeeper",0,0,0
+255,"Tom Davies",206,"1998-06-30","England","Midfielder",975,0,0
+256,"Dominic Calvert-Lewin",206,"1997-03-16","England","Forward",1774,6,2
+257,"Alisson Becker",211,"1992-10-02","Brazil","Goalkeeper",3420,0,0
+258,"Virgil van Dijk",211,"1991-07-08","Netherlands","Defender",3385,4,2
+259,"Andrew Robertson",211,"1994-03-11","Scotland","Defender",3219,0,11
+260,"Joe Gomez",211,"1997-05-23","England","Defender",1060,0,0
+261,"Trent Alexander-Arnold",211,"1998-10-07","England","Defender",2467,1,12
+262,"James Milner",211,"1986-01-04","England","Midfielder",1785,5,4
+263,"Georginio Wijnaldum",211,"1990-11-11","Netherlands","Midfielder",2735,3,0
+264,"Naby Deco Keïta",211,"1995-02-10","Guinea","Midfielder",1392,2,1
+265,"Roberto Firmino",211,"1991-10-02","Brazil","Forward",2620,12,6
+266,"Mohamed Salah",211,"1992-06-15","Egypt","Forward",3262,22,8
+267,"Sadio Mané",211,"1992-04-10","Senegal","Forward",3086,22,1
+268,"Jordan Henderson",211,"1990-06-17","England","Midfielder",1983,1,3
+269,"Xherdan Shaqiri",211,"1991-10-10","Switzerland","Midfielder",1058,6,3
+270,"Daniel Sturridge",211,"1989-09-01","England","Forward",496,2,1
+271,"Loris Karius",211,"1993-06-22","Germany","Goalkeeper",0,0,0
+272,"Nathaniel Clyne",209,"1991-04-05","England","Defender",1254,0,1
+273,"Fabinho",211,"1993-10-23","Brazil","Midfielder",2013,1,2
+274,"Adam David Lallana",211,"1988-05-10","England","Midfielder",465,0,0
+275,"Łukasz Fabiański",213,"1985-04-18","Poland","Goalkeeper",3420,0,0
+276,"Angelo Ogbonna",213,"1988-05-23","Italy","Defender",1870,1,1
+277,"Arthur Masuaku",213,"1993-11-07","France","Defender",1700,0,1
+278,"Ryan Fredericks",213,"1992-10-10","England","Midfielder",1085,1,0
+279,"Fabián Cornelio Balbuena González",213,"1991-08-23","Paraguay","Defender",2014,1,0
+280,"Mark Noble",213,"1987-05-08","England","Midfielder",2308,5,5
+281,"Jack Wilshere",213,"1992-01-01","England","Midfielder",389,0,1
+282,"Michail Antonio",213,"1990-03-28","England","Midfielder",2099,6,4
+283,"Felipe Anderson Pereira Gomes",213,"1993-04-15","Brazil","Midfielder",3054,9,4
+284,"Declan Rice",213,"1999-01-14","Republic of Ireland","Midfielder",3005,2,0
+285,"Marko Arnautović",213,"1989-04-19","Austria","Forward",2000,10,4
+286,"Robert Snodgrass",213,"1987-09-07","Scotland","Midfielder",2222,2,5
+287,"Javier Hernandez",213,"1988-06-01","Mexico","Forward",1335,7,1
+288,"Andriy Yarmolenko",213,"1989-10-23","Ukraine","Forward",459,2,0
+289,"Pablo Zabaleta",213,"1985-01-16","Argentina","Defender",2092,0,1
+290,"Adrián San Miguel del Castillo",213,"1987-01-03","Spain","Goalkeeper",0,0,0
+291,"Pedro Obiang",213,"1992-03-27","Equatorial Guinea","Midfielder",1121,0,1
+292,"Issa Diop",213,"1997-01-09","France","Defender",2970,1,0
+293,"Alex McCarthy",208,"1989-12-03","England","Goalkeeper",2250,0,0
+294,"Ryan Bertrand",208,"1989-08-05","England","Defender",2160,1,0
+295,"Cedric Soares",208,"1991-08-31","Portugal","Defender",1494,1,2
+296,"Jannik Vestergaard",208,"1992-08-03","Denmark","Defender",2030,0,0
+297,"Jack Stephens",208,"1994-01-27","England","Defender",1697,1,0
+298,"Wesley Hoedt",208,"1994-03-06","Netherlands","Defender",1170,0,0
+299,"Oriol Romeu",208,"1991-09-24","Spain","Midfielder",2140,1,0
+300,"Stuart Armstrong",208,"1992-03-30","Scotland","Midfielder",1432,3,2
+301,"Nathan Redmond",208,"1994-03-06","England","Midfielder",3276,6,4
+302,"Mario Lemina",208,"1993-09-01","Gabon","Midfielder",1615,1,1
+303,"Charlie Austin",208,"1989-07-05","England","Forward",980,2,2
+304,"Daniel William John Ings",208,"1992-07-23","England","Forward",1668,7,3
+305,"Mohamed Elyounoussi",208,"1994-08-04","Norway","Midfielder",790,0,0
+306,"Manolo Gabbiadini",208,"1991-11-26","Italy","Forward",470,1,0
+307,"James Ward-Prowse",208,"1994-11-01","England","Midfielder",1942,7,0
+308,"Pierre-Emile Højbjerg",208,"1995-08-05","Denmark","Midfielder",2764,4,3
+309,"Angus Gunn",208,"1996-01-22","England","Goalkeeper",1080,0,0
+310,"Jan Bednarek",208,"1996-04-12","Poland","Defender",2151,0,1
+311,"Joe Hart",207,"1987-04-19","England","Goalkeeper",1710,0,0
+312,"Stephen Ward",207,"1985-08-20","Republic of Ireland","Defender",230,0,0
+313,"Matthew Lowton",207,"1989-06-09","England","Defender",1748,0,0
+314,"Ben Mee",207,"1989-09-21","England","Defender",3420,0,2
+315,"James Tarkowski",207,"1992-11-19","England","Defender",3087,3,1
+316,"Aaron Lennon",207,"1987-04-16","England","Midfielder",1217,1,1
+317,"Jack Cork",207,"1989-06-25","England","Midfielder",3313,1,2
+318,"Johann Berg Guðmunds­son",207,"1990-10-27","Iceland","Midfielder",1748,3,6
+319,"Ashley Westwood",207,"1990-04-01","England","Midfielder",2822,2,7
+320,"Jeff Hendrick",207,"1992-01-31","Republic of Ireland","Midfielder",2069,2,0
+321,"Chris Wood",207,"1991-12-07","New Zealand","Forward",2582,10,2
+322,"Sam Vokes",207,"1989-10-21","Wales","Forward",913,3,0
+323,"Ashley Barnes",207,"1989-10-30","England","Forward",2400,12,2
+324,"Charlie Taylor",207,"1993-09-18","England","Defender",3240,0,1
+325,"Tom Heaton",207,"1986-04-15","England","Goalkeeper",1710,0,0
+326,"Ben Gibson",207,"1993-01-15","England","Defender",63,1,0
+327,"Jonathan Walters",207,"1983-09-20","Republic of Ireland","Forward",0,0,0
+328,"Phil Bardsley",207,"1985-06-28","Scotland","Defender",1672,0,0
+329,"Petr Čech",201,"1982-05-20","Czech Republic","Goalkeeper",585,0,0
+330,"Sokratis Papastathopoulos",201,"1988-06-09","Greece","Defender",2199,1,2
+331,"Shkodran Mustafi",201,"1992-04-17","Germany","Defender",2617,2,0
+332,"Hector Bellerin",201,"1995-03-19","Spain","Defender",1535,0,5
+333,"Mesut Özil",201,"1988-10-15","Germany","Midfielder",1741,5,2
+334,"Henrikh Mkhitaryan",201,"1989-01-21","Armenia","Midfielder",1643,6,4
+335,"Aaron Ramsey",201,"1990-12-26","Wales","Midfielder",1327,4,6
+336,"Granit Xhaka",201,"1992-09-27","Switzerland","Midfielder",2502,4,2
+337,"Ainsley Maitland-Niles",201,"1997-08-29","England","Midfielder",985,1,1
+338,"Mattéo Guendouzi Olié",201,"1999-04-14","France","Midfielder",2143,0,0
+339,"Pierre-Emerick Aubameyang",201,"1989-06-18","Gabon","Forward",2731,22,5
+340,"Stephan Lichtsteiner",201,"1984-01-16","Switzerland","Defender",940,0,0
+341,"Alexandre Lacazette",201,"1991-05-28","France","Forward",2503,13,8
+342,"Lucas Torreira",201,"1996-02-11","Uruguay","Midfielder",2377,2,2
+343,"Mohamed Elneny",201,"1992-07-11","Egypt","Midfielder",381,0,0
+344,"Rob Holding",201,"1995-09-20","England","Defender",807,0,0
+345,"Alex Iwobi",201,"1996-05-03","Nigeria","Forward",1972,3,6
+346,"Bernd Leno",201,"1992-03-04","Germany","Goalkeeper",2835,0,0
+347,"Ederson",203,"1993-08-17","Brazil","Goalkeeper",3420,0,1
+348,"Kyle Walker",203,"1990-05-28","England","Defender",2777,1,1
+349,"Benjamin Mendy",203,"1994-07-17","France","Defender",900,0,5
+350,"Aymeric Laporte",203,"1994-05-27","France","Defender",3057,3,3
+351,"John Stones",203,"1994-05-28","England","Defender",1762,0,0
+352,"Fernando Luiz Rosa",203,"1985-05-04","Brazil","Midfielder",2381,1,3
+353,"İlkay Gündoğan",203,"1990-10-24","Germany","Midfielder",2135,6,3
+354,"Riyad Mahrez",203,"1991-02-21","Algeria","Midfielder",1339,7,4
+355,"Bernardo Silva",203,"1994-08-10","Portugal","Midfielder",2853,7,7
+356,"Sergio Aguero",203,"1988-06-02","Argentina","Forward",2480,21,8
+357,"Raheem Sterling",203,"1994-12-08","England","Forward",2777,17,10
+358,"Kevin De Bruyne",203,"1991-06-28","Belgium","Midfielder",974,2,2
+359,"Gabriel Jesus",203,"1997-04-03","Brazil","Forward",1019,7,3
+360,"Leroy Sané",203,"1996-01-11","Germany","Midfielder",1867,10,10
+361,"Claudio Andrés Bravo Muñoz",203,"1983-04-13","Chile","Goalkeeper",0,0,0
+362,"Vincent Kompany",203,"1986-04-10","Belgium","Defender",1223,1,0
+363,"Nicolas Otamendi",203,"1988-02-12","Argentina","Defender",1233,0,0
+364,"Philip Foden",203,"2000-05-28","England","Midfielder",327,1,0
+365,"Harry Arter",216,"1989-12-28","Republic of Ireland","Midfielder",2008,0,1
+366,"Kenneth Dahrup Zohorè",216,"1994-01-31","Denmark","Forward",746,1,1
+367,"Isaac Hayden",215,"1995-03-22","England","Midfielder",1886,1,4
+368,"Jacob Murphy",215,"1995-02-24","England","Midfielder",300,0,1
+369,"Federico Fernández",215,"1989-02-21","Argentina","Defender",1484,0,1
+370,"Carlos Sánchez",213,"1986-02-06","Colombia","Midfielder",240,0,0
+371,"Lucas Perez",213,"1988-09-10","Spain","Forward",468,3,0
+372,"Aaron Cresswell",213,"1989-12-15","England","Defender",1645,0,1
+373,"Kurt Zouma",206,"1994-10-27","France","Defender",2610,2,2
+374,"Ademola Lookman",206,"1997-10-20","England","Forward",601,0,2
+375,"Jonjoe Kenny",206,"1997-03-15","England","Defender",790,0,1
+376,"Shane Long",208,"1987-01-22","Republic of Ireland","Forward",1269,5,1
+377,"Maya Yoshida",208,"1988-08-24","Japan","Defender",1520,0,1
+378,"Matt Targett",208,"1995-09-18","England","Defender",1185,1,3
+379,"Nampalys Mendy",204,"1992-06-23","France","Midfielder",2088,0,0
+380,"Adama Traoré Diarra",220,"1996-01-25","Spain","Midfielder",890,1,1
+381,"Kieran Trippier",202,"1990-09-19","England","Defender",2278,1,3
+382,"Erik Lamela",202,"1992-03-04","Argentina","Midfielder",971,4,2
+383,"Harry Winks",202,"1996-02-02","England","Midfielder",1591,1,0
+384,"Danny Rose",202,"1990-07-02","England","Defender",1806,0,3
+385,"André-Frank Zambo Anguissa",217,"1995-11-16","Cameroon","Midfielder",1518,0,0
+386,"Mateo Kovačić",212,"1994-05-06","Croatia","Midfielder",1743,0,2
+387,"Nacho Monreal",201,"1986-02-26","Spain","Defender",1861,1,3
+388,"Danny Welbeck",201,"1990-11-26","England","Forward",147,1,1
+389,"David Silva",203,"1986-01-08","Spain","Midfielder",2411,6,8
+390,"Abdelhamid Sabiri",219,"1996-11-28","Morocco","Midfielder",49,0,0
+391,"Isaac Mbenza",219,"1996-03-08","Belgium","Forward",981,1,1
+392,"Daniel Williams",219,"1989-03-08","USA","Midfielder",93,0,0
+393,"Kevin Long",207,"1990-08-18","Republic of Ireland","Defender",513,0,1
+394,"Martín Montoya",218,"1991-04-14","Spain","Defender",2166,0,1
+395,"Jesse Lingard",210,"1992-12-15","England","Midfielder",1668,4,2
+396,"Ander Herrera",210,"1989-08-14","Spain","Midfielder",1404,2,3
+397,"Max Meyer",205,"1995-09-18","Germany","Midfielder",1414,1,2
+398,"Jordan Ayew",205,"1991-09-11","Ghana","Forward",1186,1,2
+399,"Alberto Moreno",211,"1992-07-05","Spain","Defender",155,0,0
+400,"Simon Mignolet",211,"1988-03-06","Belgium","Goalkeeper",0,0,0
+401,"Joel Matip",211,"1991-08-08","Cameroon","Defender",1532,1,0
+402,"Fabian Delph",203,"1989-11-21","England","Midfielder",725,0,1
+403,"Arijanet Muric",203,"1998-11-07","Montenegro","Goalkeeper",0,0,0
+404,"Jefferson Lerma",209,"1994-10-25","Colombia","Midfielder",2511,2,0
+405,"Bernard Anício Caldeira Duarte",206,"1992-09-08","Brazil","Midfielder",2128,1,3
+406,"Kieran Dowell",206,"1997-10-10","England","Midfielder",0,0,0
+407,"Steven Davis",208,"1985-01-01","Northern Ireland","Midfielder",96,0,1
+408,"Shinji Okazaki",204,"1986-04-16","Japan","Forward",269,0,1
+409,"Markus Suttner",218,"1987-04-16","Austria","Defender",0,0,0
+410,"Sullay Kaikai",205,"1995-08-26","England","Midfielder",0,0,0
+411,"Marcus Bettinelli",217,"1992-05-24","England","Goalkeeper",630,0,0
+412,"Denis Odoi",217,"1988-05-27","Belgium","Defender",2593,0,1
+413,"Jamie Sterry",215,"1995-11-21","England","Defender",0,0,0
+414,"Sean Longstaff",215,"1997-10-30","England","Midfielder",688,1,0
+415,"Antonio Valencia",210,"1985-08-04","Ecuador","Defender",466,0,0
+416,"Phil Jones",210,"1992-02-21","England","Defender",1263,0,1
+417,"Nemanja Matić",210,"1988-08-01","Serbia","Midfielder",2441,1,0
+418,"Alfie Mawson",217,"1994-01-19","England","Defender",1131,0,0
+419,"Diego Rico",209,"1993-02-23","Spain","Defender",607,0,0
+420,"Jason Puncheon",219,"1986-06-26","England","Midfielder",391,0,0
+421,"Tyias Browning",206,"1994-05-27","England","Defender",0,0,0
+422,"Elias Kachunga",219,"1992-04-22","Congo DR","Forward",1181,0,0
+423,"Erik Durm",219,"1992-05-12","Germany","Defender",2051,0,1
+424,"Ryan Schofield",219,"1999-12-11","England","Goalkeeper",0,0,0
+425,"Kadeem Harris",216,"1993-06-08","England","Midfielder",366,1,0
+426,"Brian Murphy",216,"1983-05-07","Republic of Ireland","Goalkeeper",0,0,0
+427,"Dwight McNeil",207,"1999-11-22","England","Forward",1599,3,4
+428,"Matěj Vydra",207,"1992-05-01","Czech Republic","Forward",311,1,1
+429,"Nathaniel Chalobah",214,"1994-12-12","England","Midfielder",266,0,0
+430,"Victor Wanyama",202,"1991-06-25","Kenya","Midfielder",509,1,0
+431,"Paulo Dino Gazzaniga",202,"1992-01-02","Argentina","Goalkeeper",270,0,0
+432,"Danny Drinkwater",212,"1990-03-05","England","Midfielder",0,0,0
+433,"Oleksandr Zinchenko",203,"1996-12-15","Ukraine","Midfielder",1153,0,3
+434,"Floyd Ayité",217,"1988-12-15","Togo","Midfielder",465,1,0
+435,"Junior Stanislas",209,"1989-11-26","England","Midfielder",1027,2,3
+436,"Sergio Germán Romero",210,"1987-02-22","Argentina","Goalkeeper",0,0,0
+437,"Florin Andone",218,"1993-04-11","Romania","Forward",874,3,0
+438,"Alfie Whiteman",202,"1998-10-02","England","Goalkeeper",0,0,0
+439,"Gary Cahill",212,"1985-12-19","England","Defender",22,0,0
+440,"Cesc Fabregas",212,"1987-05-04","Spain","Midfielder",175,0,0
+441,"Grady Diangana",213,"1998-04-19","England","Midfielder",604,0,1
+442,"Sead Kolašinac",201,"1993-06-20","Bosnia and Herzegovina","Defender",1891,0,5
+443,"Marc Navarro Ceciliano",214,"1995-07-02","Spain","Defender",84,0,0
+444,"Tim Ream",217,"1987-10-05","USA","Defender",2051,0,0
+445,"Danilo",203,"1991-07-15","Brazil","Defender",806,1,0
+446,"Jose Izquierdo",218,"1992-07-07","Colombia","Forward",794,0,1
+447,"Ivan Ricardo Neves Abreu Cavaleiro",220,"1993-10-18","Portugal","Forward",682,3,1
+448,"Steven Defour",207,"1988-04-15","Belgium","Midfielder",452,0,0
+449,"Oliver Skipp",202,"2000-09-16","England","Midfielder",216,0,0
+450,"Aron Einar Gunnarsson",216,"1989-04-22","Iceland","Midfielder",2274,1,1
+451,"Gerard Deulofeu",214,"1994-03-13","Spain","Forward",2082,10,5
+452,"Zeze Steven Sessegnon",217,"2000-05-18","England","Defender",0,0,0
+453,"Damián Emiliano Martínez",201,"1992-09-02","Argentina","Goalkeeper",0,0,0
+454,"Dejan Lovren",211,"1989-07-05","Croatia","Defender",985,1,0
+455,"Loïc Damour",216,"1991-01-08","France","Midfielder",21,0,0
+456,"Ben Wilmot",214,"1999-11-04","England","Defender",26,0,0
+457,"Domingos Quina",214,"1999-11-18","Portugal","Midfielder",335,1,0
+458,"Juninho Bacuna",219,"1997-08-07","Netherlands","Midfielder",1414,1,0
+459,"Divock Origi",211,"1995-04-18","Belgium","Forward",366,3,1
+460,"André Filipe Tavares Gomes",206,"1993-07-30","Portugal","Midfielder",1986,1,1
+461,"Yerry Fernando Mina González",206,"1994-09-23","Colombia","Defender",890,1,0
+462,"Connor Wickham",205,"1993-03-31","England","Forward",61,0,1
+463,"Emile Smith Rowe",201,"2000-07-28","England","Midfielder",0,0,0
+464,"Zechariah Medley",201,"2000-07-07","England","Defender",0,0,0
+465,"Caglar Söyüncü",204,"1996-05-23","Turkey","Defender",371,0,0
+466,"Jason Steele",218,"1990-08-18","England","Goalkeeper",0,0,0
+467,"Leander Dendoncker",220,"1995-04-15","Belgium","Midfielder",1469,2,0
+468,"Matthew Connolly",216,"1987-09-24","England","Defender",0,0,0
+469,"Stefano Okaka",214,"1989-08-09","Italy","Forward",22,0,0
+470,"Collin Quaner",219,"1991-06-18","Germany","Forward",37,0,0
+471,"Joe Powell",213,"1998-10-30","England","Forward",0,0,0
+472,"Conor Coventry",213,"2000-03-25","Republic of Ireland","Midfielder",0,0,0
+473,"Robbie Brady",207,"1992-01-14","Republic of Ireland","Midfielder",715,0,1
+474,"Faustino Marcos Alberto Rojo",210,"1990-03-20","Argentina","Defender",211,0,0
+475,"Danny Simpson",204,"1987-01-04","England","Defender",291,0,0
+476,"Fousseni Diabaté",204,"1995-10-18","Mali","Midfielder",55,0,0
+477,"Juan Marcos Foyth",202,"1998-01-12","Argentina","Defender",930,1,0
+478,"Michael Obafemi",208,"2000-07-06","Republic of Ireland","Forward",134,1,1
+479,"Viktor Gyökeres",218,"1998-06-04","Sweden","Forward",0,0,0
+480,"Marc Pugh",209,"1987-04-02","England","Midfielder",0,0,0
+481,"Edward Nketiah",201,"1999-05-30","England","Forward",62,1,0
+482,"Andy Carroll",213,"1989-01-06","England","Forward",454,0,0
+483,"Freddie Woodman",215,"1997-03-04","England","Goalkeeper",0,0,0
+484,"Ryan Giles",220,"2000-01-26","England","Midfielder",0,0,0
+485,"Jack Simpson",209,"1996-12-18","England","Defender",403,0,0
+486,"Yann Valery",208,"1999-02-22","France","Defender",1715,2,1
+487,"José Diogo Dalot Teixeira",210,"1999-03-18","Portugal","Defender",1015,0,2
+488,"Rafael Euclides Soares Camacho",211,"2000-05-22","Portugal","Midfielder",0,0,0
+489,"Josh Knight",204,"1997-09-07","England","Defender",0,0,0
+490,"Laurent Koscielny",201,"1985-09-10","France","Defender",1328,3,0
+491,"Ben White",218,"1997-10-08","England","Defender",0,0,0
+492,"Emerson Palmieri dos Santos",212,"1994-08-03","Italy","Defender",660,0,0
+493,"Hamza Choudhury",204,"1997-10-01","England","Midfielder",596,0,0
+494,"Georges-Kevin N'Koudou Mbida",202,"1995-02-13","France","Forward",4,0,1
+495,"Julián Speroni",205,"1979-05-18","Argentina","Goalkeeper",90,0,0
+496,"Scott Dann",205,"1987-02-14","England","Defender",660,0,1
+497,"Timothy Eyoma",202,"2000-01-29","England","Defender",0,0,0
+498,"Tom Cleverley",214,"1989-08-12","England","Midfielder",470,1,0
+499,"Alexandre Nascimento Costa Silva",213,"1997-03-16","Portugal","Forward",17,0,0
+500,"Tyreke Johnson",208,"1998-11-03","England","Defender",0,0,0
+501,"Bakayo Sako",201,"1970-01-01","England","Midfielder",7,0,0
+502,"Ali Koiki",207,"2000-08-22","England","Defender",0,0,0
+503,"Kayne Ramsey",208,"2000-10-10","England","Midfielder",90,0,0
+504,"Max Kilman",220,"1997-05-23","England","Defender",0,0,0
+505,"Angel Gomes",210,"2000-08-31","England","Midfielder",25,0,0
+506,"Joseph Willock",201,"1999-08-20","England","Midfielder",64,0,0
+507,"Callum Hudson-Odoi",212,"2000-11-07","England","Midfielder",391,0,1
+508,"Miguel Ángel Britos Cabrera",214,"1985-07-17","Uruguay","Defender",185,0,0
+509,"Ethan Ampadu",212,"2000-09-14","Wales","Midfielder",0,0,0
+510,"Callum Slattery",208,"1999-02-08","England","Midfielder",110,0,0
+511,"Samir Nasri",213,"1987-06-26","France","Midfielder",246,0,2
+512,"Florian Lejeune",215,"1991-05-20","France","Defender",1055,0,0
+513,"Max Harrison Sanders",218,"1999-01-04","England","Midfielder",0,0,0
+514,"Rhys Healey",216,"1994-12-06","England","Forward",49,0,0
+515,"Harvey Lewis Barnes",204,"1997-12-09","England","Midfielder",1007,1,2
+516,"Sam Gallagher",208,"1995-09-15","England","Forward",30,0,0
+517,"Joshua Sims",208,"1997-03-28","England","Midfielder",209,0,1
+518,"Joe Daniel Tupper",205,"1997-11-15","England","Goalkeeper",0,0,0
+519,"Callum Roberts",215,"1997-04-14","England","Forward",0,0,0
+520,"Ryan Guno Babel",217,"1986-12-19","Netherlands","Forward",1260,5,3
+521,"Kazaiah Sterling",202,"1998-11-09","England","Forward",0,0,0
+522,"Carl Jenkinson",201,"1992-02-08","England","Defender",166,0,0
+523,"Konstantinos Mavropanos",201,"1997-12-11","Greece","Defender",150,0,0
+524,"Dan Burn",218,"1992-05-09","England","Defender",0,0,0
+525,"James McCarthy",206,"1990-11-12","Republic of Ireland","Midfielder",14,0,0
+526,"Josh Benson",207,"1999-12-05","England","Midfielder",0,0,0
+527,"Chris Mepham",209,"1997-11-05","Wales","Defender",849,0,1
+528,"Dominic Solanke",209,"1997-09-14","England","Forward",341,0,1
+529,"Gonzalo Higuain",212,"1987-12-10","Argentina","Forward",1092,5,0
+530,"Antonio Barreca",215,"1995-03-18","Italy","Defender",4,0,0
+531,"Adalberto Peñaranda Maestre",214,"1997-05-31","Venezuela","Forward",0,0,0
+532,"Peter Crouch",207,"1981-01-30","England","Forward",86,0,0
+533,"Alfie Jones",208,"1997-10-07","England","Defender",0,0,0
+534,"Karlan Ahearne-Grant",219,"1997-12-19","England","Forward",874,3,0
+535,"Michy Batshuayi",205,"1993-10-02","Belgium","Forward",756,5,0
+536,"Bakary Sako",205,"1988-04-26","Mali","Midfielder",25,0,0
+537,"Cameron John",220,"1999-08-24","England","Defender",0,0,0
+538,"Leandro Bacuna",216,"1991-08-21","Curaçao","Midfielder",554,0,0
+539,"Denis Suárez",201,"1994-01-06","Spain","Midfielder",67,0,0
+540,"Curtis Jones",211,"2001-01-30","England","Midfielder",0,0,0
+541,"Joel Coleman",219,"1995-09-26","England","Goalkeeper",90,0,0
+542,"Kyle Taylor",209,"1999-08-28","England","Midfielder",0,0,0
+543,"Sam Surridge",209,"1998-07-28","England","Forward",11,0,0
+544,"Youri Tielemans",204,"1997-05-07","Belgium","Midfielder",1092,3,4
+545,"Miguel Ángel Almirón Rejala",215,"1994-02-10","Paraguay","Midfielder",763,0,0
+546,"Manuel Lanzini",213,"1993-02-15","Argentina","Midfielder",688,1,1
+547,"Håvard Nordtveit",217,"1990-06-21","Norway","Midfielder",361,0,1
+548,"Lazar Marković",217,"1994-03-02","Serbia","Midfielder",44,0,0
+549,"Demeaco Duhaney",219,"1998-10-13","England","Defender",46,0,0
+550,"James Garner",210,"2001-03-13","England","Defender",0,0,0
+551,"Tahith Chong",210,"1999-12-04","Netherlands","Forward",36,0,0
+552,"Philippe Sandler",203,"1997-02-10","Netherlands","Defender",0,0,0
+553,"Benjamin Johnson",213,"2000-01-24","England","Forward",63,0,0
+554,"Matty Daly",219,"2001-03-10","England","Midfielder",73,0,0
+555,"Will Norris",220,"1993-08-12","England","Goalkeeper",0,0,0
+556,"Aaron Rowe",219,"2000-09-07","England","Forward",69,0,0
+557,"Mason Greenwood",210,"2001-10-01","England","Midfielder",115,0,0
+558,"Sam Woods",205,"1998-09-11","England","Defender",0,0,0
+559,"George Marsh",202,"1998-11-05","England","Midfielder",0,0,0
+560,"Harvey Elliot",217,"1970-01-01","England","Forward",18,0,0
+561,"Nathan Holland",213,"1998-06-19","England","Midfielder",0,0,0
+562,"Vincent Janssen",202,"1994-06-15","Netherlands","Forward",36,0,0
+563,"Emerson Hyndman",209,"1996-04-09","USA","Midfielder",37,0,0
+564,"Nnamdi Ofoborh",209,"1999-11-07","England","Midfielder",0,0,0
+565,"Fraser Forster",208,"1988-03-17","England","Goalkeeper",90,0,0
+566,"Alex Oxlade-Chamberlain",211,"1993-08-15","England","Midfielder",19,0,0
+567,"Anthony Driscoll-Glennon",207,"1999-11-26","England","Defender",0,0,0
+568,"Mark Travers",209,"1999-05-18","Republic of Ireland","Goalkeeper",180,0,0
+569,"Jayson Molumby",218,"1999-08-06","Republic of Ireland","Midfielder",0,0,0
+570,"Luke Dreher",205,"1998-11-27","England","Midfielder",0,0,0
+571,"Nikola Tavares",205,"1999-01-17","England","Defender",0,0,0
+572,"Matt Butcher",209,"1997-05-14","England","Midfielder",0,0,0
+573,"Luca de la Torre",217,"1998-05-23","USA","Midfielder",0,0,0
+574,"Lewis Cass",215,"2000-02-27","England","Defender",0,0,0
+575,"Kelland Watts",215,"1999-11-03","England","Midfielder",0,0,0
+576,"Marc Guehi",212,"2000-07-13","England","Defender",0,0,0
